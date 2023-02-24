@@ -1,2 +1,1 @@
-# Prep-course-Soyhenry
-www repository practic
+Este proyecto es una prueba de como crear un repositorio y abrirlo desde github
